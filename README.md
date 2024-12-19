@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 
-### 🖱️ Editor:
+### 🖱️ Editors:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
